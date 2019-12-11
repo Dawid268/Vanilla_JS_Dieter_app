@@ -28,7 +28,4 @@ function getUserData() {
   sessionStorage.setItem('carbohydrates', carbohydratesValue);
   sessionStorage.setItem('kcal', kcal);
 
-  if (kcal != 0 && proteinValue != 0 && fatValue != 0 && carbohydratesValue != 0) {
-    window.location.href = "file:///home/dawid/WebstormProjects/DieterApp/dieter.html";
-  }
 }
