@@ -1,0 +1,206 @@
+* {
+  margin: 0;
+}
+
+body, html {
+  height: 100%;
+}
+
+.wrapper {
+  display: grid;
+}
+
+.header {
+  grid-area: header;
+}
+
+#navbar {
+  grid-area: navigation;
+}
+
+.content {
+  grid-area: content;
+}
+
+.footer {
+  grid-area: footer;
+}
+
+.container-fluid {
+  margin-top: 1%;
+}
+
+@media (min-width: 320px) {
+  .wrapper {
+    grid-template-areas: "navigation" "header" "content" "content" "footer";
+  }
+
+  .header {
+    width: 99%;
+
+    height: 15vh;
+    font-size: 0.7rem;
+    font-family: "Abyssinica SIL";
+    text-align: center;
+    background-image: linear-gradient(to right top, #bacdcb, #b1c4c4, #a9bbbe, #a1b1b6, #9aa8af, #9aa7af, #99a7ae, #99a6ae, #9faeb5, #a6b7bb, #adbfc2, #b5c7c8);
+    padding-top: 5%;
+  }
+
+  .content {
+    display: grid;
+    grid-template-areas: "values" "newProd" "filteredProd" "meal" "mealTable" " mealConteiner";
+
+  }
+
+  #values {
+    text-align: center;
+
+    grid-area: values;
+    width: 99%;
+  }
+
+  #mealCreator {
+    grid-area: meal;
+    width: 99%;
+
+  }
+
+  #addNewProdForm {
+    grid-area: newProd;
+    width: 99%;
+  }
+
+  #filteredProdList {
+    grid-area: filteredProd;
+    width: 99%;
+
+  }
+
+  #mealTable {
+    grid-area: mealTable;
+    width: 99%;
+
+  }
+
+  #addMealContainer {
+    grid-area: mealConteiner;
+    width: 99%;
+
+  }
+}
+
+@media (min-width: 768px) {
+
+
+  .header {
+    width: 100%;
+    height: 15vh;
+    font-size: 0.7rem;
+    font-family: "Abyssinica SIL";
+    text-align: center;
+    background-image: linear-gradient(to right top, #bacdcb, #b1c4c4, #a9bbbe, #a1b1b6, #9aa8af, #9aa7af, #99a7ae, #99a6ae, #9faeb5, #a6b7bb, #adbfc2, #b5c7c8);
+    padding-top: 5%;
+  }
+
+  .content {
+    display: grid;
+    grid-template-areas: "values" "newProd" "filteredProd" "meal" "mealTable" " mealConteiner";
+    text-align: center;
+  }
+
+  #values {
+    grid-area: values;
+    width: 99%;
+  }
+
+  #mealCreator {
+    grid-area: meal;
+    width: 99%;
+  }
+
+  #addNewProdForm {
+    grid-area: newProd;
+    width: 99%;
+  }
+
+  #filteredProdList {
+    grid-area: filteredProd;
+    width: 99%;
+  }
+
+  #mealTable {
+    grid-area: mealTable;
+    width: 99%;
+  }
+
+  #addMealContainer {
+    grid-area: mealConteiner;
+    width: 99%;
+  }
+}
+
+
+@media (min-width: 992px) {
+
+  .wrapper {
+
+    grid-template-areas: "navigation navigation navigation navigation" "header header header header" "content content content content" "footer footer footer footer";
+  }
+
+  .header {
+    width: 100%;
+    font-size: 2rem;
+    font-family: "Abyssinica SIL";
+    background-image: linear-gradient(to right top, #bacdcb, #b1c4c4, #a9bbbe, #a1b1b6, #9aa8af, #9aa7af, #99a7ae, #99a6ae, #9faeb5, #a6b7bb, #adbfc2, #b5c7c8);
+    padding-bottom: 10%;
+  }
+
+  .content {
+    text-align:  left;
+
+    margin-top: 1%;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 2fr 2fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-areas: "values newProd filteredProd mealConteiner" "meal mealTable mealConteiner";
+  }
+
+  #values {
+    text-align:  left;
+    padding-left: 10%;
+    grid-area: values;
+    grid-column: 1;
+  }
+
+  #mealCreator {
+    grid-area: meal;
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  #addNewProdForm {
+    grid-area: newProd;
+    grid-column: 3;
+    grid-row: 1;
+
+  }
+
+  #filteredProdList {
+    grid-area: filteredProd;
+    grid-column: 4;
+    grid-row: 1;
+  }
+
+  #mealTable {
+    margin-left: 1%;
+    grid-area: mealTable; grid-column: 1/5;
+    grid-row: 2/3;
+  }
+
+  #addMealContainer {
+    grid-area: mealConteiner;
+  }
+}
+
+

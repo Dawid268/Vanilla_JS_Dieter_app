@@ -1,0 +1,3278 @@
+[
+  {
+    "name": "Agrest",
+    "proteins": "0.8",
+    "fat": "0.2",
+    "carbohydrates": "11.8",
+    "kcal": "41"
+  },
+  {
+    "name": "Amarantus, nasiona",
+    "proteins": "14.5",
+    "fat": "6.5",
+    "carbohydrates": "66.2",
+    "kcal": "400"
+  },
+  {
+    "name": "Ananas",
+    "proteins": "0.4",
+    "fat": "0.2",
+    "carbohydrates": "13.6",
+    "kcal": "54"
+  },
+  {
+    "name": "Ananas w syropie",
+    "proteins": "0.4",
+    "fat": "0.1",
+    "carbohydrates": "21",
+    "kcal": "84"
+  },
+  {
+    "name": "Anyz",
+    "proteins": "17.6",
+    "fat": "16",
+    "carbohydrates": "50",
+    "kcal": "337"
+  },
+  {
+    "name": "Arbuz",
+    "proteins": "0.6",
+    "fat": "0.1",
+    "carbohydrates": "8.4",
+    "kcal": "36"
+  },
+  {
+    "name": "Avocado",
+    "proteins": "2",
+    "fat": "15.3",
+    "carbohydrates": "7.4",
+    "kcal": "160"
+  },
+  {
+    "name": "Baklazan",
+    "proteins": "1.1",
+    "fat": "0.1",
+    "carbohydrates": "6.3",
+    "kcal": "21"
+  },
+  {
+    "name": "Baleron",
+    "proteins": "15.1",
+    "fat": "20.2",
+    "carbohydrates": "0.9",
+    "kcal": "244"
+  },
+  {
+    "name": "Banan",
+    "proteins": "1",
+    "fat": "0.3",
+    "carbohydrates": "23.5",
+    "kcal": "95"
+  },
+  {
+    "name": "Banany suszone",
+    "proteins": "3.8",
+    "fat": "1.1",
+    "carbohydrates": "88.8",
+    "kcal": "360"
+  },
+  {
+    "name": "Bazylia suszona",
+    "proteins": "14.3",
+    "fat": "4",
+    "carbohydrates": "61",
+    "kcal": "251"
+  },
+  {
+    "name": "Bazylia ?wieza",
+    "proteins": "3.2",
+    "fat": "0.64",
+    "carbohydrates": "2.7",
+    "kcal": "23"
+  },
+  {
+    "name": "Biala rzodkiew",
+    "proteins": "1",
+    "fat": "0",
+    "carbohydrates": "3",
+    "kcal": "14"
+  },
+  {
+    "name": "Bialko jajka kurzego",
+    "proteins": "10.9",
+    "fat": "0.2",
+    "carbohydrates": "0.7",
+    "kcal": "49"
+  },
+  {
+    "name": "Bob",
+    "proteins": "7.1",
+    "fat": "0.4",
+    "carbohydrates": "14",
+    "kcal": "66"
+  },
+  {
+    "name": "Bocwina",
+    "proteins": "2.1",
+    "fat": "0.5",
+    "carbohydrates": "5.5",
+    "kcal": "17"
+  },
+  {
+    "name": "Boczek wedzony",
+    "proteins": "13",
+    "fat": "47",
+    "carbohydrates": "0",
+    "kcal": "477"
+  },
+  {
+    "name": "Botwinka",
+    "proteins": "2.1",
+    "fat": "0.5",
+    "carbohydrates": "5.5",
+    "kcal": "17"
+  },
+  {
+    "name": "Brokuly",
+    "proteins": "3",
+    "fat": "0.4",
+    "carbohydrates": "5.2",
+    "kcal": "27"
+  },
+  {
+    "name": "Brukselka",
+    "proteins": "4.7",
+    "fat": "0.5",
+    "carbohydrates": "8.7",
+    "kcal": "37"
+  },
+  {
+    "name": "Brzoskwinia",
+    "proteins": "1",
+    "fat": "0.2",
+    "carbohydrates": "11.9",
+    "kcal": "46"
+  },
+  {
+    "name": "Brzoskwinia w syropie",
+    "proteins": "0.4",
+    "fat": "0.1",
+    "carbohydrates": "18.2",
+    "kcal": "73"
+  },
+  {
+    "name": "Bulka owsiana",
+    "proteins": "9.3",
+    "fat": "4.5",
+    "carbohydrates": "58.4",
+    "kcal": "304"
+  },
+  {
+    "name": "Bulka pszenna zwykla",
+    "proteins": "8.1",
+    "fat": "1.5",
+    "carbohydrates": "57.7",
+    "kcal": "273"
+  },
+  {
+    "name": "Bulka sojowa",
+    "proteins": "10.1",
+    "fat": "4",
+    "carbohydrates": "61.1",
+    "kcal": "315"
+  },
+  {
+    "name": "Bulka tarta",
+    "proteins": "9.7",
+    "fat": "1.9",
+    "carbohydrates": "77.6",
+    "kcal": "347"
+  },
+  {
+    "name": "Bulka wroclawskia",
+    "proteins": "8",
+    "fat": "4.4",
+    "carbohydrates": "56.6",
+    "kcal": "294"
+  },
+  {
+    "name": "Burak",
+    "proteins": "1.8",
+    "fat": "0.1",
+    "carbohydrates": "9.5",
+    "kcal": "38"
+  },
+  {
+    "name": "Cebula",
+    "proteins": "1.4",
+    "fat": "0.4",
+    "carbohydrates": "6.9",
+    "kcal": "30"
+  },
+  {
+    "name": "Cebula czerwona",
+    "proteins": "1.4",
+    "fat": "0.4",
+    "carbohydrates": "6.9",
+    "kcal": "30"
+  },
+  {
+    "name": "Cebula konserwowa",
+    "proteins": "0.7",
+    "fat": "0.2",
+    "carbohydrates": "12.4",
+    "kcal": "52"
+  },
+  {
+    "name": "Cebulka dymka",
+    "proteins": "1.4",
+    "fat": "0.4",
+    "carbohydrates": "6.9",
+    "kcal": "30"
+  },
+  {
+    "name": "Chili",
+    "proteins": "0.4",
+    "fat": "0.1",
+    "carbohydrates": "1.8",
+    "kcal": "40"
+  },
+  {
+    "name": "Chleb chrupki",
+    "proteins": "8.7",
+    "fat": "2.4",
+    "carbohydrates": "78.9",
+    "kcal": "353"
+  },
+  {
+    "name": "Chleb pszenny",
+    "proteins": "8.5",
+    "fat": "1.4",
+    "carbohydrates": "54.3",
+    "kcal": "257"
+  },
+  {
+    "name": "Chleb zwykly",
+    "proteins": "6.1",
+    "fat": "1.3",
+    "carbohydrates": "56.3",
+    "kcal": "248"
+  },
+  {
+    "name": "Chleb zytni pelnoziarnisty",
+    "proteins": "6.8",
+    "fat": "1.8",
+    "carbohydrates": "53.8",
+    "kcal": "225"
+  },
+  {
+    "name": "Chleb zytni razowy",
+    "proteins": "5.9",
+    "fat": "1.7",
+    "carbohydrates": "51.2",
+    "kcal": "213"
+  },
+  {
+    "name": "Chrzan",
+    "proteins": "4.5",
+    "fat": "0.6",
+    "carbohydrates": "18.1",
+    "kcal": "67"
+  },
+  {
+    "name": "Ciecierzyca konserwowa",
+    "proteins": "6",
+    "fat": "3",
+    "carbohydrates": "18",
+    "kcal": "127"
+  },
+  {
+    "name": "Cieciorka",
+    "proteins": "19.3",
+    "fat": "6",
+    "carbohydrates": "60.6",
+    "kcal": "364"
+  },
+  {
+    "name": "Cielecina lopatka",
+    "proteins": "19.9",
+    "fat": "2.8",
+    "carbohydrates": "0",
+    "kcal": "106"
+  },
+  {
+    "name": "Cielecina sznyclowka",
+    "proteins": "20.5",
+    "fat": "2.4",
+    "carbohydrates": "0",
+    "kcal": "105"
+  },
+  {
+    "name": "Cielecina udziec",
+    "proteins": "19.9",
+    "fat": "3.1",
+    "carbohydrates": "0",
+    "kcal": "108"
+  },
+  {
+    "name": "Cukier",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "99.8",
+    "kcal": "405"
+  },
+  {
+    "name": "Cukier brazowy",
+    "proteins": "0.12",
+    "fat": "0",
+    "carbohydrates": "98",
+    "kcal": "380"
+  },
+  {
+    "name": "Cukier puder",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "100",
+    "kcal": "387"
+  },
+  {
+    "name": "Cukinia",
+    "proteins": "1.2",
+    "fat": "0.1",
+    "carbohydrates": "3.2",
+    "kcal": "15"
+  },
+  {
+    "name": "Curry",
+    "proteins": "13",
+    "fat": "14",
+    "carbohydrates": "58",
+    "kcal": "325"
+  },
+  {
+    "name": "cwikla",
+    "proteins": "1.6",
+    "fat": "0.1",
+    "carbohydrates": "10.2",
+    "kcal": "40"
+  },
+  {
+    "name": "Cykoria",
+    "proteins": "1.7",
+    "fat": "0.2",
+    "carbohydrates": "4.1",
+    "kcal": "21"
+  },
+  {
+    "name": "Cynamon",
+    "proteins": "4",
+    "fat": "1.2",
+    "carbohydrates": "81",
+    "kcal": "247"
+  },
+  {
+    "name": "Cytryna",
+    "proteins": "0.8",
+    "fat": "0.3",
+    "carbohydrates": "9.5",
+    "kcal": "36"
+  },
+  {
+    "name": "Czekolada gorzka",
+    "proteins": "6.7",
+    "fat": "34.3",
+    "carbohydrates": "56.6",
+    "kcal": "554"
+  },
+  {
+    "name": "Czere?nie",
+    "proteins": "1",
+    "fat": "0.3",
+    "carbohydrates": "14.6",
+    "kcal": "61"
+  },
+  {
+    "name": "Czerwona fasola konserwowa",
+    "proteins": "8.1",
+    "fat": "0.6",
+    "carbohydrates": "12.3",
+    "kcal": "87"
+  },
+  {
+    "name": "Czosnek",
+    "proteins": "6.4",
+    "fat": "0.5",
+    "carbohydrates": "32.6",
+    "kcal": "146"
+  },
+  {
+    "name": "Czosnek granulowany",
+    "proteins": "17",
+    "fat": "0.73",
+    "carbohydrates": "73",
+    "kcal": "331"
+  },
+  {
+    "name": "Daktyle suszone",
+    "proteins": "2",
+    "fat": "0.4",
+    "carbohydrates": "74",
+    "kcal": "277"
+  },
+  {
+    "name": "Dorsz filety bez skory",
+    "proteins": "16.5",
+    "fat": "0.3",
+    "carbohydrates": "0",
+    "kcal": "70"
+  },
+  {
+    "name": "Dynia",
+    "proteins": "1.3",
+    "fat": "0.3",
+    "carbohydrates": "7.7",
+    "kcal": "28"
+  },
+  {
+    "name": "Dzem jagodowy niskoslodzony",
+    "proteins": "0.3",
+    "fat": "0.2",
+    "carbohydrates": "38.2",
+    "kcal": "153"
+  },
+  {
+    "name": "Dzem ?liwkowy niskoslodzony",
+    "proteins": "0.3",
+    "fat": "0.1",
+    "carbohydrates": "37.9",
+    "kcal": "153"
+  },
+  {
+    "name": "Dzem truskawkowy niskoslodzony",
+    "proteins": "0.3",
+    "fat": "0.2",
+    "carbohydrates": "37.8",
+    "kcal": "153"
+  },
+  {
+    "name": "Dzem wi?niowy niskoslodzony",
+    "proteins": "0.4",
+    "fat": "0.2",
+    "carbohydrates": "37.5",
+    "kcal": "154"
+  },
+  {
+    "name": "Ekstrakt z wanilii",
+    "proteins": "0.03",
+    "fat": "0",
+    "carbohydrates": "14",
+    "kcal": "288"
+  },
+  {
+    "name": "Estragon",
+    "proteins": "23",
+    "fat": "7.2",
+    "carbohydrates": "50",
+    "kcal": "295"
+  },
+  {
+    "name": "Fasola biala suche nasiona",
+    "proteins": "21.4",
+    "fat": "1.6",
+    "carbohydrates": "61.6",
+    "kcal": "288"
+  },
+  {
+    "name": "Fasola cieta, konserwowa, bez zalewy",
+    "proteins": "1.5",
+    "fat": "0.2",
+    "carbohydrates": "4.5",
+    "kcal": "16"
+  },
+  {
+    "name": "Fasola szparagowa",
+    "proteins": "2.4",
+    "fat": "0.2",
+    "carbohydrates": "7.6",
+    "kcal": "27"
+  },
+  {
+    "name": "Fasolka szparagowa, mrozonka",
+    "proteins": "2.2",
+    "fat": "0.2",
+    "carbohydrates": "6.8",
+    "kcal": "24"
+  },
+  {
+    "name": "Figi suszone",
+    "proteins": "3.6",
+    "fat": "1.2",
+    "carbohydrates": "78",
+    "kcal": "290"
+  },
+  {
+    "name": "Filet z makreli w sosie pomidorowym",
+    "proteins": "13.1",
+    "fat": "9",
+    "carbohydrates": "4",
+    "kcal": "150"
+  },
+  {
+    "name": "Fladra ?wieza",
+    "proteins": "16.5",
+    "fat": "1.8",
+    "carbohydrates": "0",
+    "kcal": "83"
+  },
+  {
+    "name": "Galka muszkatolowa",
+    "proteins": "6.7",
+    "fat": "32",
+    "carbohydrates": "50",
+    "kcal": "475"
+  },
+  {
+    "name": "Go?dzik",
+    "proteins": "6",
+    "fat": "20",
+    "carbohydrates": "61",
+    "kcal": "323"
+  },
+  {
+    "name": "Grahamka",
+    "proteins": "9",
+    "fat": "1.7",
+    "carbohydrates": "56.1",
+    "kcal": "252"
+  },
+  {
+    "name": "Granat",
+    "proteins": "1.7",
+    "fat": "1.2",
+    "carbohydrates": "18.7",
+    "kcal": "83"
+  },
+  {
+    "name": "Grejpfrut",
+    "proteins": "0.6",
+    "fat": "0.2",
+    "carbohydrates": "9.8",
+    "kcal": "36"
+  },
+  {
+    "name": "Grejpfrut czerwony",
+    "proteins": "0.8",
+    "fat": "0.1",
+    "carbohydrates": "10.7",
+    "kcal": "42"
+  },
+  {
+    "name": "Grejpfrut zielony",
+    "proteins": "0.6",
+    "fat": "0.2",
+    "carbohydrates": "9.8",
+    "kcal": "36"
+  },
+  {
+    "name": "Groch suche nasiona",
+    "proteins": "23.8",
+    "fat": "1.4",
+    "carbohydrates": "60.2",
+    "kcal": "293"
+  },
+  {
+    "name": "Groszek ptysiowy",
+    "proteins": "14.9",
+    "fat": "30.2",
+    "carbohydrates": "37.6",
+    "kcal": "476"
+  },
+  {
+    "name": "Groszek zielony",
+    "proteins": "6.7",
+    "fat": "0.4",
+    "carbohydrates": "17",
+    "kcal": "75"
+  },
+  {
+    "name": "Groszek zielony konserwowy",
+    "proteins": "4.9",
+    "fat": "0.2",
+    "carbohydrates": "15.8",
+    "kcal": "63"
+  },
+  {
+    "name": "Gruszka",
+    "proteins": "0.6",
+    "fat": "0.2",
+    "carbohydrates": "14.4",
+    "kcal": "54"
+  },
+  {
+    "name": "Grzyby suszone",
+    "proteins": "9.3",
+    "fat": "0.7",
+    "carbohydrates": "73",
+    "kcal": "284"
+  },
+  {
+    "name": "Halibut ?wiezy",
+    "proteins": "20.1",
+    "fat": "1.9",
+    "carbohydrates": "0",
+    "kcal": "98"
+  },
+  {
+    "name": "Herbata bez cukru",
+    "proteins": "0.1",
+    "fat": "0",
+    "carbohydrates": "0",
+    "kcal": "0"
+  },
+  {
+    "name": "Imbir",
+    "proteins": "9.1",
+    "fat": "6",
+    "carbohydrates": "71",
+    "kcal": "347"
+  },
+  {
+    "name": "Jablka suszone",
+    "proteins": "2.1",
+    "fat": "2.1",
+    "carbohydrates": "62.3",
+    "kcal": "238"
+  },
+  {
+    "name": "Jablko",
+    "proteins": "0.4",
+    "fat": "0.4",
+    "carbohydrates": "12.1",
+    "kcal": "46"
+  },
+  {
+    "name": "Jagody",
+    "proteins": "0.8",
+    "fat": "0.6",
+    "carbohydrates": "12.2",
+    "kcal": "45"
+  },
+  {
+    "name": "Jajko kurze",
+    "proteins": "12.5",
+    "fat": "9.7",
+    "carbohydrates": "0.6",
+    "kcal": "139"
+  },
+  {
+    "name": "Jajko przepiorcze",
+    "proteins": "13",
+    "fat": "11",
+    "carbohydrates": "0.4",
+    "kcal": "158"
+  },
+  {
+    "name": "Jarmuz",
+    "proteins": "3.3",
+    "fat": "0.7",
+    "carbohydrates": "6.1",
+    "kcal": "29"
+  },
+  {
+    "name": "Jogurt naturalny 2%",
+    "proteins": "4.3",
+    "fat": "2",
+    "carbohydrates": "6.2",
+    "kcal": "60"
+  },
+  {
+    "name": "Kabanos",
+    "proteins": "27.4",
+    "fat": "24.3",
+    "carbohydrates": "0",
+    "kcal": "326"
+  },
+  {
+    "name": "Kabanos z kurczaka",
+    "proteins": "22.8",
+    "fat": "17.4",
+    "carbohydrates": "0.1",
+    "kcal": "247"
+  },
+  {
+    "name": "Kajzerka",
+    "proteins": "8.4",
+    "fat": "3.6",
+    "carbohydrates": "58.6",
+    "kcal": "296"
+  },
+  {
+    "name": "Kakao w proszku 16%",
+    "proteins": "18.2",
+    "fat": "21.7",
+    "carbohydrates": "50.6",
+    "kcal": "448"
+  },
+  {
+    "name": "Kalafior",
+    "proteins": "2.4",
+    "fat": "0.2",
+    "carbohydrates": "5",
+    "kcal": "22"
+  },
+  {
+    "name": "Kalarepa",
+    "proteins": "2.2",
+    "fat": "0.3",
+    "carbohydrates": "6.5",
+    "kcal": "29"
+  },
+  {
+    "name": "Kapary",
+    "proteins": "2.4",
+    "fat": "0.9",
+    "carbohydrates": "4.9",
+    "kcal": "23"
+  },
+  {
+    "name": "Kapusta biala",
+    "proteins": "1.7",
+    "fat": "0.2",
+    "carbohydrates": "7.4",
+    "kcal": "29"
+  },
+  {
+    "name": "Kapusta czerwona",
+    "proteins": "1.9",
+    "fat": "0.2",
+    "carbohydrates": "6.7",
+    "kcal": "27"
+  },
+  {
+    "name": "Kapusta kwaszona",
+    "proteins": "1.1",
+    "fat": "0.2",
+    "carbohydrates": "3.4",
+    "kcal": "12"
+  },
+  {
+    "name": "Kapusta pekinska",
+    "proteins": "1.2",
+    "fat": "0.2",
+    "carbohydrates": "3.2",
+    "kcal": "12"
+  },
+  {
+    "name": "Kapusta wloska",
+    "proteins": "3.3",
+    "fat": "0.4",
+    "carbohydrates": "7.8",
+    "kcal": "38"
+  },
+  {
+    "name": "Kardamon",
+    "proteins": "11",
+    "fat": "6.7",
+    "carbohydrates": "68",
+    "kcal": "311"
+  },
+  {
+    "name": "Karp ?wiezy",
+    "proteins": "18",
+    "fat": "4.2",
+    "carbohydrates": "0",
+    "kcal": "110"
+  },
+  {
+    "name": "Kasza gryczana",
+    "proteins": "12.6",
+    "fat": "3.1",
+    "carbohydrates": "69.3",
+    "kcal": "336"
+  },
+  {
+    "name": "Kasza jaglana",
+    "proteins": "10.5",
+    "fat": "2.9",
+    "carbohydrates": "71.6",
+    "kcal": "346"
+  },
+  {
+    "name": "Kasza jeczmienna peczak",
+    "proteins": "8.4",
+    "fat": "2",
+    "carbohydrates": "74.9",
+    "kcal": "334"
+  },
+  {
+    "name": "Kasza jeczmienna perlowa",
+    "proteins": "6.9",
+    "fat": "2.2",
+    "carbohydrates": "75",
+    "kcal": "327"
+  },
+  {
+    "name": "Kasza kukurydziana",
+    "proteins": "8",
+    "fat": "1.7",
+    "carbohydrates": "72",
+    "kcal": "337"
+  },
+  {
+    "name": "Kasza manna",
+    "proteins": "8.7",
+    "fat": "1.3",
+    "carbohydrates": "76.7",
+    "kcal": "348"
+  },
+  {
+    "name": "Kaszanka jeczmienna",
+    "proteins": "8.5",
+    "fat": "12.6",
+    "carbohydrates": "13",
+    "kcal": "195"
+  },
+  {
+    "name": "Kawa bez cukru",
+    "proteins": "0.2",
+    "fat": "0",
+    "carbohydrates": "0.3",
+    "kcal": "2"
+  },
+  {
+    "name": "Keczup",
+    "proteins": "1.8",
+    "fat": "1",
+    "carbohydrates": "22.2",
+    "kcal": "93"
+  },
+  {
+    "name": "Kefir 2%",
+    "proteins": "3.4",
+    "fat": "2",
+    "carbohydrates": "4.7",
+    "kcal": "51"
+  },
+  {
+    "name": "Kefir 2% z wapniem",
+    "proteins": "3.4",
+    "fat": "2",
+    "carbohydrates": "4.7",
+    "kcal": "51"
+  },
+  {
+    "name": "Kielbasa delikatesowa z kurczaka",
+    "proteins": "19.6",
+    "fat": "3.3",
+    "carbohydrates": "0.1",
+    "kcal": "109"
+  },
+  {
+    "name": "Kielbasa domowa",
+    "proteins": "14.7",
+    "fat": "29.2",
+    "carbohydrates": "0.5",
+    "kcal": "320"
+  },
+  {
+    "name": "Kielbasa jalowcowa z kurczaka",
+    "proteins": "19",
+    "fat": "17.9",
+    "carbohydrates": "0.1",
+    "kcal": "236"
+  },
+  {
+    "name": "Kielbasa kanapkowa z kurczaka",
+    "proteins": "11.8",
+    "fat": "13.5",
+    "carbohydrates": "3",
+    "kcal": "179"
+  },
+  {
+    "name": "Kielbasa lubuska",
+    "proteins": "17.5",
+    "fat": "18",
+    "carbohydrates": "4.8",
+    "kcal": "249"
+  },
+  {
+    "name": "Kielbasa parowkowa",
+    "proteins": "11",
+    "fat": "31.5",
+    "carbohydrates": "0",
+    "kcal": "323"
+  },
+  {
+    "name": "Kielbasa podlaska z kurczaka",
+    "proteins": "20.7",
+    "fat": "16.7",
+    "carbohydrates": "0.1",
+    "kcal": "232"
+  },
+  {
+    "name": "Kielbasa podsuszana z kurczaka",
+    "proteins": "21.7",
+    "fat": "8.4",
+    "carbohydrates": "0",
+    "kcal": "162"
+  },
+  {
+    "name": "Kielbasa podwawelska",
+    "proteins": "17.3",
+    "fat": "19.6",
+    "carbohydrates": "0.9",
+    "kcal": "247"
+  },
+  {
+    "name": "Kielbasa rzeszowska",
+    "proteins": "20.9",
+    "fat": "13.4",
+    "carbohydrates": "0",
+    "kcal": "203"
+  },
+  {
+    "name": "Kielbasa ?laska",
+    "proteins": "18.4",
+    "fat": "15.3",
+    "carbohydrates": "0",
+    "kcal": "210"
+  },
+  {
+    "name": "Kielbasa sucha krakowska",
+    "proteins": "25.6",
+    "fat": "24.8",
+    "carbohydrates": "0",
+    "kcal": "323"
+  },
+  {
+    "name": "Kielbasa sucha my?liwska",
+    "proteins": "27.8",
+    "fat": "20.1",
+    "carbohydrates": "0",
+    "kcal": "291"
+  },
+  {
+    "name": "Kielbasa szynkowa z kurczaka",
+    "proteins": "16.2",
+    "fat": "5",
+    "carbohydrates": "0",
+    "kcal": "110"
+  },
+  {
+    "name": "Kielbasa torunska",
+    "proteins": "20.9",
+    "fat": "20.1",
+    "carbohydrates": "0",
+    "kcal": "263"
+  },
+  {
+    "name": "Kielbasa zwyczajna",
+    "proteins": "17.6",
+    "fat": "15.6",
+    "carbohydrates": "0",
+    "kcal": "209"
+  },
+  {
+    "name": "Kielbasa zywiecka",
+    "proteins": "20.3",
+    "fat": "26.3",
+    "carbohydrates": "0",
+    "kcal": "315"
+  },
+  {
+    "name": "Kielbaski bawarskie",
+    "proteins": "15.5",
+    "fat": "27.7",
+    "carbohydrates": "0.1",
+    "kcal": "308"
+  },
+  {
+    "name": "Kielki bambusa",
+    "proteins": "1.1",
+    "fat": "0.6",
+    "carbohydrates": "2",
+    "kcal": "20"
+  },
+  {
+    "name": "Kielki brokula",
+    "proteins": "5",
+    "fat": "0",
+    "carbohydrates": "6.8",
+    "kcal": "57"
+  },
+  {
+    "name": "Kielki buraka",
+    "proteins": "1.6",
+    "fat": "0.2",
+    "carbohydrates": "9.6",
+    "kcal": "37"
+  },
+  {
+    "name": "Kielki fasoli mung",
+    "proteins": "3",
+    "fat": "0.4",
+    "carbohydrates": "6.2",
+    "kcal": "29"
+  },
+  {
+    "name": "Kielki lucerny",
+    "proteins": "4",
+    "fat": "0.7",
+    "carbohydrates": "2.1",
+    "kcal": "23"
+  },
+  {
+    "name": "Kielki rzodkiewki",
+    "proteins": "3.8",
+    "fat": "2.5",
+    "carbohydrates": "3.6",
+    "kcal": "43"
+  },
+  {
+    "name": "Kielki slonecznika",
+    "proteins": "3.4",
+    "fat": "0.7",
+    "carbohydrates": "4",
+    "kcal": "31"
+  },
+  {
+    "name": "Kielki soczewicy",
+    "proteins": "9",
+    "fat": "0.6",
+    "carbohydrates": "22.1",
+    "kcal": "119"
+  },
+  {
+    "name": "Kielki soi",
+    "proteins": "13.1",
+    "fat": "6.7",
+    "carbohydrates": "9.6",
+    "kcal": "141"
+  },
+  {
+    "name": "Kiwi",
+    "proteins": "0.9",
+    "fat": "0.5",
+    "carbohydrates": "13.9",
+    "kcal": "56"
+  },
+  {
+    "name": "Kminek",
+    "proteins": "20",
+    "fat": "15",
+    "carbohydrates": "50",
+    "kcal": "333"
+  },
+  {
+    "name": "Kolendra",
+    "proteins": "22",
+    "fat": "4.8",
+    "carbohydrates": "52",
+    "kcal": "279"
+  },
+  {
+    "name": "Komosa ryzowa - quinoa",
+    "proteins": "14.8",
+    "fat": "5",
+    "carbohydrates": "58.5",
+    "kcal": "334"
+  },
+  {
+    "name": "Komosa ryzowa - Quinoa",
+    "proteins": "15",
+    "fat": "5",
+    "carbohydrates": "58",
+    "kcal": "334"
+  },
+  {
+    "name": "Koncentrat pomidorowy 30%",
+    "proteins": "5.6",
+    "fat": "1.5",
+    "carbohydrates": "16.7",
+    "kcal": "92"
+  },
+  {
+    "name": "Koperek",
+    "proteins": "2.8",
+    "fat": "0.4",
+    "carbohydrates": "6.1",
+    "kcal": "26"
+  },
+  {
+    "name": "Kostka rosolowa Rosol z kury z pietruszka i lubczykiem",
+    "proteins": "10",
+    "fat": "20",
+    "carbohydrates": "10",
+    "kcal": "300"
+  },
+  {
+    "name": "Krewetka tygrysia",
+    "proteins": "22",
+    "fat": "0",
+    "carbohydrates": "1",
+    "kcal": "92"
+  },
+  {
+    "name": "Kukurydza kolba",
+    "proteins": "3.7",
+    "fat": "1.5",
+    "carbohydrates": "23.4",
+    "kcal": "110"
+  },
+  {
+    "name": "Kukurydza konserwowa",
+    "proteins": "2.9",
+    "fat": "1.2",
+    "carbohydrates": "23.6",
+    "kcal": "102"
+  },
+  {
+    "name": "Kumin (kmin rzymski)",
+    "proteins": "17",
+    "fat": "22",
+    "carbohydrates": "34",
+    "kcal": "429"
+  },
+  {
+    "name": "Kurki",
+    "proteins": "1.49",
+    "fat": "0.53",
+    "carbohydrates": "6.86",
+    "kcal": "32"
+  },
+  {
+    "name": "Kurkuma",
+    "proteins": "7.8",
+    "fat": "9.9",
+    "carbohydrates": "65",
+    "kcal": "354"
+  },
+  {
+    "name": "Len mielony",
+    "proteins": "40",
+    "fat": "9",
+    "carbohydrates": "3",
+    "kcal": "253"
+  },
+  {
+    "name": "Len w nasionach",
+    "proteins": "24.5",
+    "fat": "31",
+    "carbohydrates": "35",
+    "kcal": "500"
+  },
+  {
+    "name": "Limonka",
+    "proteins": "0.7",
+    "fat": "0.2",
+    "carbohydrates": "10.5",
+    "kcal": "30"
+  },
+  {
+    "name": "Li?cie miety",
+    "proteins": "3.8",
+    "fat": "0.94",
+    "carbohydrates": "15",
+    "kcal": "77"
+  },
+  {
+    "name": "Li?c laurowy",
+    "proteins": "7.6",
+    "fat": "8.4",
+    "carbohydrates": "75",
+    "kcal": "313"
+  },
+  {
+    "name": "loso? smazony",
+    "proteins": "21.2",
+    "fat": "31.4",
+    "carbohydrates": "4",
+    "kcal": "380"
+  },
+  {
+    "name": "loso? ?wiezy",
+    "proteins": "19.9",
+    "fat": "13.6",
+    "carbohydrates": "0",
+    "kcal": "201"
+  },
+  {
+    "name": "loso? wedzony",
+    "proteins": "21.5",
+    "fat": "8.4",
+    "carbohydrates": "0",
+    "kcal": "162"
+  },
+  {
+    "name": "Magii",
+    "proteins": "2.7",
+    "fat": "0",
+    "carbohydrates": "1.5",
+    "kcal": "17"
+  },
+  {
+    "name": "Majeranek",
+    "proteins": "13",
+    "fat": "7",
+    "carbohydrates": "61",
+    "kcal": "271"
+  },
+  {
+    "name": "Majonez",
+    "proteins": "1.3",
+    "fat": "79",
+    "carbohydrates": "2.6",
+    "kcal": "714"
+  },
+  {
+    "name": "Mak",
+    "proteins": "20.1",
+    "fat": "42.9",
+    "carbohydrates": "24.7",
+    "kcal": "478"
+  },
+  {
+    "name": "Maka kukurydziana",
+    "proteins": "5.9",
+    "fat": "3",
+    "carbohydrates": "78",
+    "kcal": "337"
+  },
+  {
+    "name": "Maka pszenna typ 1850",
+    "proteins": "11.9",
+    "fat": "2.3",
+    "carbohydrates": "70",
+    "kcal": "309"
+  },
+  {
+    "name": "Maka pszenna typ 500",
+    "proteins": "10.1",
+    "fat": "1.2",
+    "carbohydrates": "74",
+    "kcal": "343"
+  },
+  {
+    "name": "Maka pszenna typ 550",
+    "proteins": "10.5",
+    "fat": "1.6",
+    "carbohydrates": "73",
+    "kcal": "344"
+  },
+  {
+    "name": "Maka pszenna typ 750",
+    "proteins": "11.6",
+    "fat": "1.8",
+    "carbohydrates": "71.3",
+    "kcal": "341"
+  },
+  {
+    "name": "Makaron bezjajeczny",
+    "proteins": "11",
+    "fat": "1.6",
+    "carbohydrates": "77.6",
+    "kcal": "364"
+  },
+  {
+    "name": "Makaron czterojajeczny",
+    "proteins": "13.2",
+    "fat": "3.4",
+    "carbohydrates": "78.3",
+    "kcal": "391"
+  },
+  {
+    "name": "Makaron dwujajeczny",
+    "proteins": "12",
+    "fat": "2.6",
+    "carbohydrates": "76.8",
+    "kcal": "373"
+  },
+  {
+    "name": "Makaron farfalline pelnoziarnisty z 5 zboz",
+    "proteins": "14.4",
+    "fat": "2.5",
+    "carbohydrates": "63.8",
+    "kcal": "351"
+  },
+  {
+    "name": "Makaron penne pelnoziarnisty",
+    "proteins": "15.2",
+    "fat": "1.3",
+    "carbohydrates": "68",
+    "kcal": "345"
+  },
+  {
+    "name": "Makaron rurki (z pszenicy Durum)",
+    "proteins": "12",
+    "fat": "1.5",
+    "carbohydrates": "72.1",
+    "kcal": "350"
+  },
+  {
+    "name": "Makaron ryzowy",
+    "proteins": "6.8",
+    "fat": "0.7",
+    "carbohydrates": "83",
+    "kcal": "356"
+  },
+  {
+    "name": "Makaron spaghetti razowy",
+    "proteins": "13",
+    "fat": "2.5",
+    "carbohydrates": "66.5",
+    "kcal": "354"
+  },
+  {
+    "name": "Maka ryzowa",
+    "proteins": "7.2",
+    "fat": "0.7",
+    "carbohydrates": "79.2",
+    "kcal": "348"
+  },
+  {
+    "name": "Maka zytnia typ 1400",
+    "proteins": "7.1",
+    "fat": "2.2",
+    "carbohydrates": "75.3",
+    "kcal": "310"
+  },
+  {
+    "name": "Maka zytnia typ 2000",
+    "proteins": "8.1",
+    "fat": "2.2",
+    "carbohydrates": "74",
+    "kcal": "301"
+  },
+  {
+    "name": "Maka zytnia typ 580",
+    "proteins": "5.1",
+    "fat": "1.5",
+    "carbohydrates": "78.5",
+    "kcal": "330"
+  },
+  {
+    "name": "Maka zytnia typ 720",
+    "proteins": "5.9",
+    "fat": "1.7",
+    "carbohydrates": "77.4",
+    "kcal": "327"
+  },
+  {
+    "name": "Makrela ?wieza",
+    "proteins": "18.7",
+    "fat": "11.9",
+    "carbohydrates": "0",
+    "kcal": "181"
+  },
+  {
+    "name": "Makrela wedzona",
+    "proteins": "20.7",
+    "fat": "15.5",
+    "carbohydrates": "0",
+    "kcal": "221"
+  },
+  {
+    "name": "Maliny",
+    "proteins": "1.3",
+    "fat": "0.3",
+    "carbohydrates": "12",
+    "kcal": "29"
+  },
+  {
+    "name": "Mandarynki",
+    "proteins": "0.6",
+    "fat": "0.2",
+    "carbohydrates": "11.2",
+    "kcal": "42"
+  },
+  {
+    "name": "Mango",
+    "proteins": "0.5",
+    "fat": "0.3",
+    "carbohydrates": "17",
+    "kcal": "67"
+  },
+  {
+    "name": "Marchewka",
+    "proteins": "1",
+    "fat": "0.2",
+    "carbohydrates": "8.7",
+    "kcal": "27"
+  },
+  {
+    "name": "Marchewka z groszkiem, mrozonka",
+    "proteins": "2.6",
+    "fat": "0.3",
+    "carbohydrates": "10.4",
+    "kcal": "39"
+  },
+  {
+    "name": "Marchewki mini",
+    "proteins": "1",
+    "fat": "0",
+    "carbohydrates": "9",
+    "kcal": "41"
+  },
+  {
+    "name": "Ma?lanka 0,5 %",
+    "proteins": "3.4",
+    "fat": "0.5",
+    "carbohydrates": "4.7",
+    "kcal": "37"
+  },
+  {
+    "name": "Maslo ekstra",
+    "proteins": "0.7",
+    "fat": "82.5",
+    "carbohydrates": "0.7",
+    "kcal": "735"
+  },
+  {
+    "name": "Maslo klarowane",
+    "proteins": "0",
+    "fat": "99",
+    "carbohydrates": "0",
+    "kcal": "883"
+  },
+  {
+    "name": "Maslo orzechowe",
+    "proteins": "26.6",
+    "fat": "53",
+    "carbohydrates": "8.5",
+    "kcal": "634"
+  },
+  {
+    "name": "Maslo ?mietankowe",
+    "proteins": "1.1",
+    "fat": "73.5",
+    "carbohydrates": "1.1",
+    "kcal": "659"
+  },
+  {
+    "name": "Melon",
+    "proteins": "0.9",
+    "fat": "0.3",
+    "carbohydrates": "8.4",
+    "kcal": "36"
+  },
+  {
+    "name": "Mieszanka mak gryczanej, ryzowej lub owsianej",
+    "proteins": "11.7",
+    "fat": "2.7",
+    "carbohydrates": "70.7",
+    "kcal": "351"
+  },
+  {
+    "name": "Mieszanka warzywna z kurczakiem, ryzem i grzybami chinskimi, mrozonka",
+    "proteins": "4.3",
+    "fat": "2.4",
+    "carbohydrates": "13.3",
+    "kcal": "87"
+  },
+  {
+    "name": "Mieszanka ziol",
+    "proteins": "0",
+    "fat": "0.1",
+    "carbohydrates": "0",
+    "kcal": "1"
+  },
+  {
+    "name": "Mieta pieprzowa",
+    "proteins": "3.8",
+    "fat": "0.94",
+    "carbohydrates": "15",
+    "kcal": "77"
+  },
+  {
+    "name": "Migdaly",
+    "proteins": "20",
+    "fat": "52",
+    "carbohydrates": "20.5",
+    "kcal": "572"
+  },
+  {
+    "name": "Miks ulubionych warzwy",
+    "proteins": "1.9",
+    "fat": "0.3",
+    "carbohydrates": "8.8",
+    "kcal": "38"
+  },
+  {
+    "name": "Mintaj ?wiezy",
+    "proteins": "16.6",
+    "fat": "0.6",
+    "carbohydrates": "0",
+    "kcal": "73"
+  },
+  {
+    "name": "Miod pszczeli",
+    "proteins": "0.3",
+    "fat": "0",
+    "carbohydrates": "79.5",
+    "kcal": "324"
+  },
+  {
+    "name": "Mleko kokosowe w puszce",
+    "proteins": "2.1",
+    "fat": "18",
+    "carbohydrates": "8.1",
+    "kcal": "203"
+  },
+  {
+    "name": "Mleko kozie 2%",
+    "proteins": "3.2",
+    "fat": "4.1",
+    "carbohydrates": "4.5",
+    "kcal": "68"
+  },
+  {
+    "name": "Mleko owcze",
+    "proteins": "6",
+    "fat": "7",
+    "carbohydrates": "5.1",
+    "kcal": "107"
+  },
+  {
+    "name": "Mleko sojowe",
+    "proteins": "6",
+    "fat": "1.4",
+    "carbohydrates": "4.3",
+    "kcal": "41"
+  },
+  {
+    "name": "Mleko spozywcze 2,0%",
+    "proteins": "3.4",
+    "fat": "2",
+    "carbohydrates": "4.9",
+    "kcal": "51"
+  },
+  {
+    "name": "Mleko w proszku pelne",
+    "proteins": "27",
+    "fat": "24",
+    "carbohydrates": "38.7",
+    "kcal": "479"
+  },
+  {
+    "name": "Mleko zageszczone nieslodzone",
+    "proteins": "6.6",
+    "fat": "7.5",
+    "carbohydrates": "9.4",
+    "kcal": "131"
+  },
+  {
+    "name": "Mleko zageszczone slodzone",
+    "proteins": "7.5",
+    "fat": "8",
+    "carbohydrates": "55.3",
+    "kcal": "326"
+  },
+  {
+    "name": "Mlody jeczmien proszek",
+    "proteins": "52",
+    "fat": "2",
+    "carbohydrates": "21",
+    "kcal": "320"
+  },
+  {
+    "name": "Morele",
+    "proteins": "0.9",
+    "fat": "0.2",
+    "carbohydrates": "11.9",
+    "kcal": "47"
+  },
+  {
+    "name": "Morele suszone",
+    "proteins": "5.4",
+    "fat": "1.2",
+    "carbohydrates": "72.2",
+    "kcal": "284"
+  },
+  {
+    "name": "Morszczuk ?wiezy",
+    "proteins": "17.2",
+    "fat": "2.2",
+    "carbohydrates": "0",
+    "kcal": "89"
+  },
+  {
+    "name": "Mus jablkowy",
+    "proteins": "2.2",
+    "fat": "0.2",
+    "carbohydrates": "28.7",
+    "kcal": "124"
+  },
+  {
+    "name": "Musli z orzechami i rodzynkami",
+    "proteins": "11.5",
+    "fat": "12.7",
+    "carbohydrates": "62.9",
+    "kcal": "375"
+  },
+  {
+    "name": "Musli z suszonymi owocami",
+    "proteins": "8.4",
+    "fat": "3.4",
+    "carbohydrates": "72.2",
+    "kcal": "325"
+  },
+  {
+    "name": "Musztarda",
+    "proteins": "5.7",
+    "fat": "6.4",
+    "carbohydrates": "22",
+    "kcal": "162"
+  },
+  {
+    "name": "Napoj kokosowy w kartonie",
+    "proteins": "0.1",
+    "fat": "2",
+    "carbohydrates": "3.5",
+    "kcal": "30"
+  },
+  {
+    "name": "Nasiona Chia",
+    "proteins": "16",
+    "fat": "31",
+    "carbohydrates": "44",
+    "kcal": "490"
+  },
+  {
+    "name": "Natka pietruszki",
+    "proteins": "4.4",
+    "fat": "0.4",
+    "carbohydrates": "9",
+    "kcal": "41"
+  },
+  {
+    "name": "Nektarynka",
+    "proteins": "0.9",
+    "fat": "0.2",
+    "carbohydrates": "11.8",
+    "kcal": "48"
+  },
+  {
+    "name": "Ocet balsamiczny",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "0.7",
+    "kcal": "116"
+  },
+  {
+    "name": "Ocet jablkowy",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "6",
+    "kcal": "24"
+  },
+  {
+    "name": "Ocet winny",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "5",
+    "kcal": "20"
+  },
+  {
+    "name": "Ogorek",
+    "proteins": "0.7",
+    "fat": "0.1",
+    "carbohydrates": "2.9",
+    "kcal": "13"
+  },
+  {
+    "name": "Ogorek kiszony",
+    "proteins": "1",
+    "fat": "0.1",
+    "carbohydrates": "1.9",
+    "kcal": "11"
+  },
+  {
+    "name": "Ogorek konserwowy",
+    "proteins": "0.4",
+    "fat": "0.1",
+    "carbohydrates": "4.9",
+    "kcal": "23"
+  },
+  {
+    "name": "Ogorek kwaszony",
+    "proteins": "1",
+    "fat": "0.1",
+    "carbohydrates": "1.9",
+    "kcal": "11"
+  },
+  {
+    "name": "Ogorki konserwowe",
+    "proteins": "0.3",
+    "fat": "0.1",
+    "carbohydrates": "5.6",
+    "kcal": "24"
+  },
+  {
+    "name": "Olej kokosowy",
+    "proteins": "0",
+    "fat": "100",
+    "carbohydrates": "0",
+    "kcal": "900"
+  },
+  {
+    "name": "Olej rzepakowy",
+    "proteins": "0",
+    "fat": "100",
+    "carbohydrates": "0",
+    "kcal": "884"
+  },
+  {
+    "name": "Olej slonecznikowy",
+    "proteins": "0",
+    "fat": "100",
+    "carbohydrates": "0",
+    "kcal": "884"
+  },
+  {
+    "name": "Oliwa z oliwek",
+    "proteins": "0",
+    "fat": "99.6",
+    "carbohydrates": "0.2",
+    "kcal": "882"
+  },
+  {
+    "name": "Oliwki czarne",
+    "proteins": "1.4",
+    "fat": "12.7",
+    "carbohydrates": "4.1",
+    "kcal": "125"
+  },
+  {
+    "name": "Oliwki zielone marynowane",
+    "proteins": "1.4",
+    "fat": "12.7",
+    "carbohydrates": "4.1",
+    "kcal": "125"
+  },
+  {
+    "name": "Oregano",
+    "proteins": "9",
+    "fat": "4.3",
+    "carbohydrates": "69",
+    "kcal": "265"
+  },
+  {
+    "name": "Orzechy arachidowe",
+    "proteins": "25.7",
+    "fat": "46.1",
+    "carbohydrates": "19.2",
+    "kcal": "560"
+  },
+  {
+    "name": "Orzechy brazylijskie",
+    "proteins": "14",
+    "fat": "66",
+    "carbohydrates": "4",
+    "kcal": "656"
+  },
+  {
+    "name": "Orzechy laskowe",
+    "proteins": "14.4",
+    "fat": "63",
+    "carbohydrates": "14.9",
+    "kcal": "640"
+  },
+  {
+    "name": "Orzechy piniowe",
+    "proteins": "16.7",
+    "fat": "68.4",
+    "carbohydrates": "13",
+    "kcal": "673"
+  },
+  {
+    "name": "Orzechy pistacjowe",
+    "proteins": "20.5",
+    "fat": "48.5",
+    "carbohydrates": "25",
+    "kcal": "589"
+  },
+  {
+    "name": "Orzechy wloskie",
+    "proteins": "16",
+    "fat": "60.3",
+    "carbohydrates": "18",
+    "kcal": "645"
+  },
+  {
+    "name": "Orzechy ziemne",
+    "proteins": "26",
+    "fat": "50",
+    "carbohydrates": "14",
+    "kcal": "603"
+  },
+  {
+    "name": "Ostra papryka",
+    "proteins": "0.02",
+    "fat": "0",
+    "carbohydrates": "0.09",
+    "kcal": "0.4"
+  },
+  {
+    "name": "Otreby pszenne",
+    "proteins": "16",
+    "fat": "4.6",
+    "carbohydrates": "61.9",
+    "kcal": "185"
+  },
+  {
+    "name": "Paluszek krabowy",
+    "proteins": "6.5",
+    "fat": "2.2",
+    "carbohydrates": "16.8",
+    "kcal": "113"
+  },
+  {
+    "name": "Papaja",
+    "proteins": "0.6",
+    "fat": "0.1",
+    "carbohydrates": "11.1",
+    "kcal": "41"
+  },
+  {
+    "name": "Papryka czerwona",
+    "proteins": "1.3",
+    "fat": "0.5",
+    "carbohydrates": "6.6",
+    "kcal": "28"
+  },
+  {
+    "name": "Papryka czerwona konserwowa",
+    "proteins": "0.8",
+    "fat": "1.5",
+    "carbohydrates": "5",
+    "kcal": "30"
+  },
+  {
+    "name": "Papryka sucha",
+    "proteins": "15",
+    "fat": "13",
+    "carbohydrates": "56",
+    "kcal": "289"
+  },
+  {
+    "name": "Papryka zielona",
+    "proteins": "1.1",
+    "fat": "0.3",
+    "carbohydrates": "4.6",
+    "kcal": "18"
+  },
+  {
+    "name": "Pasternak",
+    "proteins": "1.6",
+    "fat": "0.6",
+    "carbohydrates": "15.5",
+    "kcal": "57"
+  },
+  {
+    "name": "Pasztet pieczony",
+    "proteins": "17",
+    "fat": "31.2",
+    "carbohydrates": "13.5",
+    "kcal": "390"
+  },
+  {
+    "name": "Pasztet podlaski z kurczaka",
+    "proteins": "6.7",
+    "fat": "21.1",
+    "carbohydrates": "3.6",
+    "kcal": "228"
+  },
+  {
+    "name": "Pasztet z kurczaka",
+    "proteins": "14.4",
+    "fat": "14.3",
+    "carbohydrates": "7.5",
+    "kcal": "214"
+  },
+  {
+    "name": "Pestki dyni",
+    "proteins": "24.5",
+    "fat": "45.8",
+    "carbohydrates": "18",
+    "kcal": "556"
+  },
+  {
+    "name": "Pestki slonecznika",
+    "proteins": "24.4",
+    "fat": "43.7",
+    "carbohydrates": "24.6",
+    "kcal": "561"
+  },
+  {
+    "name": "Pesto",
+    "proteins": "3.7",
+    "fat": "34.6",
+    "carbohydrates": "6.3",
+    "kcal": "340"
+  },
+  {
+    "name": "Pieczarki",
+    "proteins": "2.7",
+    "fat": "0.4",
+    "carbohydrates": "2.6",
+    "kcal": "17"
+  },
+  {
+    "name": "Pieczarki marynowane konserwowe",
+    "proteins": "2.3",
+    "fat": "0.4",
+    "carbohydrates": "4.3",
+    "kcal": "19"
+  },
+  {
+    "name": "Pieczen wolowa",
+    "proteins": "20.9",
+    "fat": "3.6",
+    "carbohydrates": "0",
+    "kcal": "117"
+  },
+  {
+    "name": "Pieczona poledwica wolowa",
+    "proteins": "19.7",
+    "fat": "9.9",
+    "carbohydrates": "0",
+    "kcal": "168"
+  },
+  {
+    "name": "Pieczywo tostowe",
+    "proteins": "8.1",
+    "fat": "4.7",
+    "carbohydrates": "58.8",
+    "kcal": "305"
+  },
+  {
+    "name": "Pieczywo tostowe grahamowe",
+    "proteins": "7.5",
+    "fat": "4.2",
+    "carbohydrates": "53.8",
+    "kcal": "273"
+  },
+  {
+    "name": "Pieczywo Wasa",
+    "proteins": "10",
+    "fat": "3",
+    "carbohydrates": "70",
+    "kcal": "370"
+  },
+  {
+    "name": "Pieprz bialy",
+    "proteins": "10",
+    "fat": "2.1",
+    "carbohydrates": "69",
+    "kcal": "296"
+  },
+  {
+    "name": "Pieprz czarny",
+    "proteins": "11",
+    "fat": "3.3",
+    "carbohydrates": "65",
+    "kcal": "318"
+  },
+  {
+    "name": "Pieprz czerwony",
+    "proteins": "12",
+    "fat": "17",
+    "carbohydrates": "57",
+    "kcal": "318"
+  },
+  {
+    "name": "Pier? indyka bez skory",
+    "proteins": "19.2",
+    "fat": "0.7",
+    "carbohydrates": "0",
+    "kcal": "84"
+  },
+  {
+    "name": "Pier? indyka ze skora",
+    "proteins": "18.7",
+    "fat": "2.7",
+    "carbohydrates": "0",
+    "kcal": "100"
+  },
+  {
+    "name": "Pier? kurczaka bez skory",
+    "proteins": "21.5",
+    "fat": "1.3",
+    "carbohydrates": "0",
+    "kcal": "99"
+  },
+  {
+    "name": "Pietruszka",
+    "proteins": "2.6",
+    "fat": "0.5",
+    "carbohydrates": "10.5",
+    "kcal": "38"
+  },
+  {
+    "name": "Pikle konserwowe",
+    "proteins": "1.3",
+    "fat": "0.2",
+    "carbohydrates": "15.5",
+    "kcal": "62"
+  },
+  {
+    "name": "Platki jaglane",
+    "proteins": "10",
+    "fat": "4",
+    "carbohydrates": "69",
+    "kcal": "361"
+  },
+  {
+    "name": "Platki jeczmienne",
+    "proteins": "9.8",
+    "fat": "3.6",
+    "carbohydrates": "79.4",
+    "kcal": "355"
+  },
+  {
+    "name": "Platki kukurydziane",
+    "proteins": "6.9",
+    "fat": "2.5",
+    "carbohydrates": "83.6",
+    "kcal": "363"
+  },
+  {
+    "name": "Platki migdalowe",
+    "proteins": "22",
+    "fat": "51",
+    "carbohydrates": "10",
+    "kcal": "581"
+  },
+  {
+    "name": "Platki owsiane",
+    "proteins": "11.9",
+    "fat": "7.2",
+    "carbohydrates": "69.3",
+    "kcal": "366"
+  },
+  {
+    "name": "Platki pszenne",
+    "proteins": "9",
+    "fat": "3",
+    "carbohydrates": "81",
+    "kcal": "351"
+  },
+  {
+    "name": "Platki ryzowe",
+    "proteins": "6.7",
+    "fat": "0.7",
+    "carbohydrates": "78.9",
+    "kcal": "344"
+  },
+  {
+    "name": "Platki zytnie",
+    "proteins": "6.4",
+    "fat": "3.2",
+    "carbohydrates": "82.6",
+    "kcal": "343"
+  },
+  {
+    "name": "Podudzie indyka bez skory",
+    "proteins": "16.6",
+    "fat": "3.7",
+    "carbohydrates": "0",
+    "kcal": "100"
+  },
+  {
+    "name": "Poledwica lososiowa",
+    "proteins": "20",
+    "fat": "2",
+    "carbohydrates": "2",
+    "kcal": "106"
+  },
+  {
+    "name": "Poledwica luksusowa",
+    "proteins": "19.5",
+    "fat": "10",
+    "carbohydrates": "2.4",
+    "kcal": "177"
+  },
+  {
+    "name": "Poledwica sopocka",
+    "proteins": "19.9",
+    "fat": "9.1",
+    "carbohydrates": "0.9",
+    "kcal": "165"
+  },
+  {
+    "name": "Poledwica wolowa",
+    "proteins": "20.1",
+    "fat": "3.5",
+    "carbohydrates": "0",
+    "kcal": "113"
+  },
+  {
+    "name": "Poledwica z indyka",
+    "proteins": "15.8",
+    "fat": "4.6",
+    "carbohydrates": "0.1",
+    "kcal": "105"
+  },
+  {
+    "name": "Poledwica z piersi kurczaka",
+    "proteins": "20.4",
+    "fat": "1.2",
+    "carbohydrates": "0",
+    "kcal": "93"
+  },
+  {
+    "name": "Pomarancza",
+    "proteins": "0.9",
+    "fat": "0.2",
+    "carbohydrates": "11.3",
+    "kcal": "44"
+  },
+  {
+    "name": "Pomidor",
+    "proteins": "0.9",
+    "fat": "0.2",
+    "carbohydrates": "3.6",
+    "kcal": "15"
+  },
+  {
+    "name": "Pomidory koktajlowe",
+    "proteins": "0.9",
+    "fat": "0.2",
+    "carbohydrates": "3.6",
+    "kcal": "15"
+  },
+  {
+    "name": "Pomidory z puszki",
+    "proteins": "1.3",
+    "fat": "0.2",
+    "carbohydrates": "4",
+    "kcal": "23"
+  },
+  {
+    "name": "Por",
+    "proteins": "2.2",
+    "fat": "0.3",
+    "carbohydrates": "5.7",
+    "kcal": "24"
+  },
+  {
+    "name": "Porzeczki biale",
+    "proteins": "1",
+    "fat": "0.2",
+    "carbohydrates": "13.1",
+    "kcal": "33"
+  },
+  {
+    "name": "Porzeczki czarne",
+    "proteins": "1.3",
+    "fat": "0.2",
+    "carbohydrates": "14.9",
+    "kcal": "35"
+  },
+  {
+    "name": "Porzeczki czerwone",
+    "proteins": "1.1",
+    "fat": "0.2",
+    "carbohydrates": "13.8",
+    "kcal": "31"
+  },
+  {
+    "name": "Powidla ?liwkowe",
+    "proteins": "1",
+    "fat": "0.2",
+    "carbohydrates": "53",
+    "kcal": "214"
+  },
+  {
+    "name": "Poziomki",
+    "proteins": "0.8",
+    "fat": "0.5",
+    "carbohydrates": "8.3",
+    "kcal": "33"
+  },
+  {
+    "name": "Proszek do pieczenia",
+    "proteins": "0.1",
+    "fat": "0.4",
+    "carbohydrates": "47",
+    "kcal": "97"
+  },
+  {
+    "name": "Przecier pomidorowy",
+    "proteins": "1.2",
+    "fat": "0.1",
+    "carbohydrates": "4.5",
+    "kcal": "25"
+  },
+  {
+    "name": "Przyprawa do drobiu",
+    "proteins": "9.6",
+    "fat": "7.5",
+    "carbohydrates": "66",
+    "kcal": "307"
+  },
+  {
+    "name": "Przyprawa do ryb",
+    "proteins": "9.6",
+    "fat": "7.5",
+    "carbohydrates": "66",
+    "kcal": "307"
+  },
+  {
+    "name": "Przyprawa \"Jarzynka\"",
+    "proteins": "1.9",
+    "fat": "0.4",
+    "carbohydrates": "23.3",
+    "kcal": "90"
+  },
+  {
+    "name": "Pstrag strumieniowy ?wiezy",
+    "proteins": "19.2",
+    "fat": "2.1",
+    "carbohydrates": "0",
+    "kcal": "97"
+  },
+  {
+    "name": "Pstrag teczowy ?wiezy",
+    "proteins": "18.6",
+    "fat": "9.6",
+    "carbohydrates": "0",
+    "kcal": "160"
+  },
+  {
+    "name": "Pstrag wedzony",
+    "proteins": "19.4",
+    "fat": "4.4",
+    "carbohydrates": "0.2",
+    "kcal": "117"
+  },
+  {
+    "name": "Pumpernikiel",
+    "proteins": "5.9",
+    "fat": "2",
+    "carbohydrates": "58.2",
+    "kcal": "240"
+  },
+  {
+    "name": "Rabarbar",
+    "proteins": "0.5",
+    "fat": "0.1",
+    "carbohydrates": "4.6",
+    "kcal": "9"
+  },
+  {
+    "name": "Rodzynki suszone",
+    "proteins": "2.3",
+    "fat": "0.5",
+    "carbohydrates": "71.2",
+    "kcal": "277"
+  },
+  {
+    "name": "Rostbef wolowy",
+    "proteins": "21.5",
+    "fat": "7.3",
+    "carbohydrates": "0",
+    "kcal": "152"
+  },
+  {
+    "name": "Rozmaryn",
+    "proteins": "4.9",
+    "fat": "15",
+    "carbohydrates": "64",
+    "kcal": "331"
+  },
+  {
+    "name": "Rukola",
+    "proteins": "2.6",
+    "fat": "0.7",
+    "carbohydrates": "3.7",
+    "kcal": "25"
+  },
+  {
+    "name": "Ryz bialy",
+    "proteins": "6.7",
+    "fat": "0.7",
+    "carbohydrates": "78.9",
+    "kcal": "344"
+  },
+  {
+    "name": "Ryz brazowy",
+    "proteins": "7.1",
+    "fat": "1.9",
+    "carbohydrates": "76.8",
+    "kcal": "322"
+  },
+  {
+    "name": "Rzepa",
+    "proteins": "1.1",
+    "fat": "0.3",
+    "carbohydrates": "8.2",
+    "kcal": "26"
+  },
+  {
+    "name": "Rzezucha",
+    "proteins": "2.6",
+    "fat": "0.7",
+    "carbohydrates": "5.5",
+    "kcal": "32"
+  },
+  {
+    "name": "Rzodkiewka",
+    "proteins": "1",
+    "fat": "0.2",
+    "carbohydrates": "4.4",
+    "kcal": "14"
+  },
+  {
+    "name": "Salami",
+    "proteins": "21.9",
+    "fat": "50.6",
+    "carbohydrates": "0.9",
+    "kcal": "540"
+  },
+  {
+    "name": "Salami popularne",
+    "proteins": "21.6",
+    "fat": "53.7",
+    "carbohydrates": "1.4",
+    "kcal": "568"
+  },
+  {
+    "name": "Salami z pieprzem",
+    "proteins": "17",
+    "fat": "37",
+    "carbohydrates": "1",
+    "kcal": "405"
+  },
+  {
+    "name": "Salata",
+    "proteins": "1.4",
+    "fat": "0.2",
+    "carbohydrates": "2.9",
+    "kcal": "14"
+  },
+  {
+    "name": "Salata lodowa",
+    "proteins": "0.9",
+    "fat": "0.1",
+    "carbohydrates": "3",
+    "kcal": "14"
+  },
+  {
+    "name": "Salata rzymska",
+    "proteins": "1.2",
+    "fat": "0",
+    "carbohydrates": "3",
+    "kcal": "17"
+  },
+  {
+    "name": "Sandacz ?wiezy",
+    "proteins": "19.2",
+    "fat": "0.7",
+    "carbohydrates": "0",
+    "kcal": "84"
+  },
+  {
+    "name": "Sardynki w oleju",
+    "proteins": "24.1",
+    "fat": "13.9",
+    "carbohydrates": "0",
+    "kcal": "221"
+  },
+  {
+    "name": "Sardynki w pomidorach",
+    "proteins": "17",
+    "fat": "9.9",
+    "carbohydrates": "1.4",
+    "kcal": "162"
+  },
+  {
+    "name": "Schab pieczony",
+    "proteins": "30.4",
+    "fat": "18.7",
+    "carbohydrates": "0.7",
+    "kcal": "291"
+  },
+  {
+    "name": "Seler konserwowy",
+    "proteins": "0.7",
+    "fat": "0.1",
+    "carbohydrates": "5.4",
+    "kcal": "17"
+  },
+  {
+    "name": "Seler korzeniowy",
+    "proteins": "1.6",
+    "fat": "0.3",
+    "carbohydrates": "7.7",
+    "kcal": "21"
+  },
+  {
+    "name": "Seler naciowy",
+    "proteins": "1",
+    "fat": "0.2",
+    "carbohydrates": "3.6",
+    "kcal": "13"
+  },
+  {
+    "name": "Ser Brie pelnotlusty",
+    "proteins": "19.8",
+    "fat": "28",
+    "carbohydrates": "0.2",
+    "kcal": "329"
+  },
+  {
+    "name": "Ser Camembert pelnotlusty",
+    "proteins": "21.4",
+    "fat": "23",
+    "carbohydrates": "0.2",
+    "kcal": "291"
+  },
+  {
+    "name": "Ser Cheddar pelnotlusty",
+    "proteins": "27.1",
+    "fat": "31.7",
+    "carbohydrates": "0.1",
+    "kcal": "391"
+  },
+  {
+    "name": "Ser Edamski pelnotlusty",
+    "proteins": "26.1",
+    "fat": "23.4",
+    "carbohydrates": "0.1",
+    "kcal": "313"
+  },
+  {
+    "name": "Serek homogenizowany",
+    "proteins": "12.7",
+    "fat": "11",
+    "carbohydrates": "3",
+    "kcal": "161"
+  },
+  {
+    "name": "Serek homogenizowany waniliowy",
+    "proteins": "16.8",
+    "fat": "4.2",
+    "carbohydrates": "13.3",
+    "kcal": "159"
+  },
+  {
+    "name": "Serek twarogowy ziarnisty",
+    "proteins": "12.3",
+    "fat": "4.3",
+    "carbohydrates": "3.3",
+    "kcal": "101"
+  },
+  {
+    "name": "Serek typu \"Fromage\" naturalny",
+    "proteins": "10.2",
+    "fat": "37.1",
+    "carbohydrates": "2.4",
+    "kcal": "379"
+  },
+  {
+    "name": "Ser Ementaler pelnotlusty",
+    "proteins": "28.8",
+    "fat": "29.7",
+    "carbohydrates": "0.1",
+    "kcal": "380"
+  },
+  {
+    "name": "Ser Gouda pelnotlusty",
+    "proteins": "27.9",
+    "fat": "22.9",
+    "carbohydrates": "0.1",
+    "kcal": "316"
+  },
+  {
+    "name": "Ser kozi",
+    "proteins": "21.4",
+    "fat": "33.9",
+    "carbohydrates": "0",
+    "kcal": "388"
+  },
+  {
+    "name": "Ser kozi, twarozek",
+    "proteins": "8.7",
+    "fat": "14",
+    "carbohydrates": "4",
+    "kcal": "168"
+  },
+  {
+    "name": "Ser Mascarpone",
+    "proteins": "3.5",
+    "fat": "40",
+    "carbohydrates": "5.1",
+    "kcal": "394"
+  },
+  {
+    "name": "Ser mozzarella",
+    "proteins": "24",
+    "fat": "16",
+    "carbohydrates": "3",
+    "kcal": "254"
+  },
+  {
+    "name": "Ser mozzarella light",
+    "proteins": "19",
+    "fat": "8.5",
+    "carbohydrates": "1",
+    "kcal": "157"
+  },
+  {
+    "name": "Ser Parmezan",
+    "proteins": "41.5",
+    "fat": "32",
+    "carbohydrates": "0.1",
+    "kcal": "452"
+  },
+  {
+    "name": "Ser Radamer",
+    "proteins": "26.2",
+    "fat": "26",
+    "carbohydrates": "0.1",
+    "kcal": "339"
+  },
+  {
+    "name": "Ser Rokpol pelnotlusty",
+    "proteins": "22.6",
+    "fat": "30.6",
+    "carbohydrates": "0.1",
+    "kcal": "363"
+  },
+  {
+    "name": "Ser Salami pelnotlusty",
+    "proteins": "25.2",
+    "fat": "28.1",
+    "carbohydrates": "0.1",
+    "kcal": "351"
+  },
+  {
+    "name": "Ser topiony",
+    "proteins": "13.5",
+    "fat": "27",
+    "carbohydrates": "1.2",
+    "kcal": "298"
+  },
+  {
+    "name": "Ser Trapistow pelnotlusty",
+    "proteins": "23.5",
+    "fat": "30.7",
+    "carbohydrates": "0.1",
+    "kcal": "367"
+  },
+  {
+    "name": "Ser Trapistow tlusty",
+    "proteins": "28",
+    "fat": "26.8",
+    "carbohydrates": "0.1",
+    "kcal": "351"
+  },
+  {
+    "name": "Ser twarogowy chudy",
+    "proteins": "19.8",
+    "fat": "0.5",
+    "carbohydrates": "3.5",
+    "kcal": "99"
+  },
+  {
+    "name": "Ser twarogowy poltlusty",
+    "proteins": "18.7",
+    "fat": "4.7",
+    "carbohydrates": "3.7",
+    "kcal": "133"
+  },
+  {
+    "name": "Ser twarogowy tlusty",
+    "proteins": "17.7",
+    "fat": "10.1",
+    "carbohydrates": "3.5",
+    "kcal": "175"
+  },
+  {
+    "name": "Ser Tylzycki pelnotlusty",
+    "proteins": "26.1",
+    "fat": "27.9",
+    "carbohydrates": "0.1",
+    "kcal": "353"
+  },
+  {
+    "name": "Ser typu \"Feta\"",
+    "proteins": "17",
+    "fat": "16",
+    "carbohydrates": "1",
+    "kcal": "215"
+  },
+  {
+    "name": "Sezam",
+    "proteins": "23.2",
+    "fat": "59.9",
+    "carbohydrates": "10",
+    "kcal": "632"
+  },
+  {
+    "name": "Siemie lniane",
+    "proteins": "18",
+    "fat": "42",
+    "carbohydrates": "29",
+    "kcal": "534"
+  },
+  {
+    "name": "Skorka cytrynowa",
+    "proteins": "1.6",
+    "fat": "0.2",
+    "carbohydrates": "25",
+    "kcal": "120"
+  },
+  {
+    "name": "Skrobia kukurydziana",
+    "proteins": "0.2",
+    "fat": "0",
+    "carbohydrates": "88.5",
+    "kcal": "353"
+  },
+  {
+    "name": "Skrobia ziemniaczana",
+    "proteins": "0.6",
+    "fat": "0.1",
+    "carbohydrates": "83.9",
+    "kcal": "343"
+  },
+  {
+    "name": "?ledz solony",
+    "proteins": "19.8",
+    "fat": "15.4",
+    "carbohydrates": "0",
+    "kcal": "217"
+  },
+  {
+    "name": "?ledz w oleju",
+    "proteins": "16.4",
+    "fat": "26.5",
+    "carbohydrates": "0",
+    "kcal": "301"
+  },
+  {
+    "name": "?liwka",
+    "proteins": "0.6",
+    "fat": "0.2",
+    "carbohydrates": "11.7",
+    "kcal": "45"
+  },
+  {
+    "name": "?liwki suszone",
+    "proteins": "3.5",
+    "fat": "1.2",
+    "carbohydrates": "68.9",
+    "kcal": "267"
+  },
+  {
+    "name": "Slodki ziemniak (batat)",
+    "proteins": "1.6",
+    "fat": "0.1",
+    "carbohydrates": "20",
+    "kcal": "86"
+  },
+  {
+    "name": "?mietana, 12% tluszczu",
+    "proteins": "2.7",
+    "fat": "12",
+    "carbohydrates": "3.9",
+    "kcal": "133"
+  },
+  {
+    "name": "?mietana, 18% tluszczu",
+    "proteins": "2.5",
+    "fat": "18",
+    "carbohydrates": "3.6",
+    "kcal": "184"
+  },
+  {
+    "name": "?mietanka kremowa 30%",
+    "proteins": "2.2",
+    "fat": "30",
+    "carbohydrates": "3.1",
+    "kcal": "287"
+  },
+  {
+    "name": "Soczewica czerwona suche nasiona",
+    "proteins": "25.4",
+    "fat": "3",
+    "carbohydrates": "57.5",
+    "kcal": "327"
+  },
+  {
+    "name": "Soja suche nasiona",
+    "proteins": "34.3",
+    "fat": "19.6",
+    "carbohydrates": "32.7",
+    "kcal": "382"
+  },
+  {
+    "name": "Sok ananasowy",
+    "proteins": "0.3",
+    "fat": "0.1",
+    "carbohydrates": "11.4",
+    "kcal": "48"
+  },
+  {
+    "name": "Sok brzoskwiniowo pomaranczowy",
+    "proteins": "0.7",
+    "fat": "0.1",
+    "carbohydrates": "7.4",
+    "kcal": "32"
+  },
+  {
+    "name": "Sok buraczany",
+    "proteins": "0.8",
+    "fat": "0.2",
+    "carbohydrates": "7.6",
+    "kcal": "34"
+  },
+  {
+    "name": "Sok cytrynowy",
+    "proteins": "0.4",
+    "fat": "0.3",
+    "carbohydrates": "6.4",
+    "kcal": "30"
+  },
+  {
+    "name": "Sok egzotyczny",
+    "proteins": "0.8",
+    "fat": "0.3",
+    "carbohydrates": "12.7",
+    "kcal": "57"
+  },
+  {
+    "name": "Sok grejpfrutowy",
+    "proteins": "0.5",
+    "fat": "0.1",
+    "carbohydrates": "9.2",
+    "kcal": "40"
+  },
+  {
+    "name": "Sok jablkowy",
+    "proteins": "0.1",
+    "fat": "0.1",
+    "carbohydrates": "10",
+    "kcal": "42"
+  },
+  {
+    "name": "Sok marchwiowo brzoskwiniowy",
+    "proteins": "0.5",
+    "fat": "0.1",
+    "carbohydrates": "11.3",
+    "kcal": "44"
+  },
+  {
+    "name": "Sok marchwiowo jablkowo bananowy",
+    "proteins": "0.3",
+    "fat": "0.1",
+    "carbohydrates": "10.2",
+    "kcal": "39"
+  },
+  {
+    "name": "Sok marchwiowo jablkowo ?liwkowy",
+    "proteins": "0.4",
+    "fat": "0.2",
+    "carbohydrates": "10.2",
+    "kcal": "39"
+  },
+  {
+    "name": "Sok marchwiowo jablkowy",
+    "proteins": "0.5",
+    "fat": "0.2",
+    "carbohydrates": "12.1",
+    "kcal": "44"
+  },
+  {
+    "name": "Sok marchwiowo pomaranczowy",
+    "proteins": "0.6",
+    "fat": "0.1",
+    "carbohydrates": "10.8",
+    "kcal": "40"
+  },
+  {
+    "name": "Sok marchwiowy",
+    "proteins": "0.4",
+    "fat": "0.1",
+    "carbohydrates": "11.3",
+    "kcal": "43"
+  },
+  {
+    "name": "Sok pomaranczowo grejpfrutowy",
+    "proteins": "0.6",
+    "fat": "0.1",
+    "carbohydrates": "9.8",
+    "kcal": "43"
+  },
+  {
+    "name": "Sok pomaranczowy",
+    "proteins": "0.6",
+    "fat": "0.1",
+    "carbohydrates": "9.9",
+    "kcal": "43"
+  },
+  {
+    "name": "Sok pomidorowy",
+    "proteins": "0.8",
+    "fat": "0.2",
+    "carbohydrates": "3.3",
+    "kcal": "14"
+  },
+  {
+    "name": "Sok wieloowocowy",
+    "proteins": "0.2",
+    "fat": "0.1",
+    "carbohydrates": "10.9",
+    "kcal": "45"
+  },
+  {
+    "name": "Sok wielowarzywny",
+    "proteins": "1",
+    "fat": "0.3",
+    "carbohydrates": "5.7",
+    "kcal": "25"
+  },
+  {
+    "name": "Sol",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "0",
+    "kcal": "0"
+  },
+  {
+    "name": "Sola ?wieza",
+    "proteins": "17.5",
+    "fat": "1.4",
+    "carbohydrates": "0",
+    "kcal": "83"
+  },
+  {
+    "name": "Sol czosnkowa",
+    "proteins": "4.3",
+    "fat": "1.2",
+    "carbohydrates": "1.9",
+    "kcal": "9"
+  },
+  {
+    "name": "Sos sojowy",
+    "proteins": "0.6",
+    "fat": "0",
+    "carbohydrates": "0.3",
+    "kcal": "0"
+  },
+  {
+    "name": "Starta skorka z pomaranczy",
+    "proteins": "1.6",
+    "fat": "0.2",
+    "carbohydrates": "25",
+    "kcal": "120"
+  },
+  {
+    "name": "Suszone pomidory",
+    "proteins": "5",
+    "fat": "14",
+    "carbohydrates": "23",
+    "kcal": "215"
+  },
+  {
+    "name": "Syrop klonowy",
+    "proteins": "0.1",
+    "fat": "0.1",
+    "carbohydrates": "63",
+    "kcal": "265"
+  },
+  {
+    "name": "Szafran",
+    "proteins": "11",
+    "fat": "5.9",
+    "carbohydrates": "65",
+    "kcal": "310"
+  },
+  {
+    "name": "Szalwia",
+    "proteins": "11",
+    "fat": "13",
+    "carbohydrates": "61",
+    "kcal": "315"
+  },
+  {
+    "name": "Szczaw",
+    "proteins": "1.1",
+    "fat": "0.8",
+    "carbohydrates": "4.9",
+    "kcal": "21"
+  },
+  {
+    "name": "Szczupak ?wiezy",
+    "proteins": "18.4",
+    "fat": "0.8",
+    "carbohydrates": "0",
+    "kcal": "82"
+  },
+  {
+    "name": "Szczypiorek",
+    "proteins": "4.1",
+    "fat": "0.8",
+    "carbohydrates": "3.9",
+    "kcal": "29"
+  },
+  {
+    "name": "Szparagi",
+    "proteins": "1.9",
+    "fat": "0.2",
+    "carbohydrates": "3.7",
+    "kcal": "18"
+  },
+  {
+    "name": "Szpinak",
+    "proteins": "2.6",
+    "fat": "0.4",
+    "carbohydrates": "3",
+    "kcal": "16"
+  },
+  {
+    "name": "Szpinak, mrozonka",
+    "proteins": "2.3",
+    "fat": "0.4",
+    "carbohydrates": "2.7",
+    "kcal": "15"
+  },
+  {
+    "name": "Szponder wolowy",
+    "proteins": "19.3",
+    "fat": "15.7",
+    "carbohydrates": "0",
+    "kcal": "217"
+  },
+  {
+    "name": "Szprotka wedzona",
+    "proteins": "19.3",
+    "fat": "18.3",
+    "carbohydrates": "0",
+    "kcal": "243"
+  },
+  {
+    "name": "Szynka delikatesowa z kurczaka",
+    "proteins": "18.2",
+    "fat": "5.6",
+    "carbohydrates": "0",
+    "kcal": "123"
+  },
+  {
+    "name": "Szynka kanapkowa",
+    "proteins": "14.2",
+    "fat": "4.4",
+    "carbohydrates": "1.4",
+    "kcal": "102"
+  },
+  {
+    "name": "Szynka parmenska",
+    "proteins": "26",
+    "fat": "3",
+    "carbohydrates": "1",
+    "kcal": "135"
+  },
+  {
+    "name": "Szynka wiejska",
+    "proteins": "17.1",
+    "fat": "20.3",
+    "carbohydrates": "0.9",
+    "kcal": "253"
+  },
+  {
+    "name": "Szynka wieprzowa gotowana",
+    "proteins": "16.4",
+    "fat": "18.3",
+    "carbohydrates": "1",
+    "kcal": "233"
+  },
+  {
+    "name": "Szynka wolowa gotowana",
+    "proteins": "20.9",
+    "fat": "2",
+    "carbohydrates": "1.1",
+    "kcal": "107"
+  },
+  {
+    "name": "Szynka z indyka",
+    "proteins": "17.1",
+    "fat": "1.6",
+    "carbohydrates": "0.1",
+    "kcal": "84"
+  },
+  {
+    "name": "Szynka z piersi kurczaka",
+    "proteins": "21.2",
+    "fat": "1.2",
+    "carbohydrates": "0.2",
+    "kcal": "98"
+  },
+  {
+    "name": "Szynka z udzca kurczaka",
+    "proteins": "17.2",
+    "fat": "5.3",
+    "carbohydrates": "0",
+    "kcal": "117"
+  },
+  {
+    "name": "Szynkowka wieprzowa",
+    "proteins": "13.6",
+    "fat": "14.7",
+    "carbohydrates": "1.4",
+    "kcal": "191"
+  },
+  {
+    "name": "Szynkowka wolowa",
+    "proteins": "16.2",
+    "fat": "1.5",
+    "carbohydrates": "1.4",
+    "kcal": "85"
+  },
+  {
+    "name": "Tofu",
+    "proteins": "12",
+    "fat": "6",
+    "carbohydrates": "3",
+    "kcal": "112"
+  },
+  {
+    "name": "Truskawki",
+    "proteins": "0.7",
+    "fat": "0.4",
+    "carbohydrates": "7.2",
+    "kcal": "28"
+  },
+  {
+    "name": "Tunczyk w oleju",
+    "proteins": "27.1",
+    "fat": "9",
+    "carbohydrates": "0",
+    "kcal": "190"
+  },
+  {
+    "name": "Tunczyk w sosie wlasnym",
+    "proteins": "21",
+    "fat": "1.2",
+    "carbohydrates": "0",
+    "kcal": "96"
+  },
+  {
+    "name": "Tymianek",
+    "proteins": "9.1",
+    "fat": "7.4",
+    "carbohydrates": "64",
+    "kcal": "276"
+  },
+  {
+    "name": "Udko kurczaka bez skory",
+    "proteins": "17.8",
+    "fat": "6",
+    "carbohydrates": "0",
+    "kcal": "125"
+  },
+  {
+    "name": "Udko kurczaka ze skora",
+    "proteins": "16.8",
+    "fat": "10.2",
+    "carbohydrates": "0",
+    "kcal": "158"
+  },
+  {
+    "name": "Udziec indyka bez skory",
+    "proteins": "19.4",
+    "fat": "2.8",
+    "carbohydrates": "0",
+    "kcal": "104"
+  },
+  {
+    "name": "Udziec indyka ze skora",
+    "proteins": "18.4",
+    "fat": "6.4",
+    "carbohydrates": "0",
+    "kcal": "131"
+  },
+  {
+    "name": "Wafle ryzowe",
+    "proteins": "8",
+    "fat": "3",
+    "carbohydrates": "81",
+    "kcal": "390"
+  },
+  {
+    "name": "Watrobka kurczaka",
+    "proteins": "19.1",
+    "fat": "6.3",
+    "carbohydrates": "0.6",
+    "kcal": "136"
+  },
+  {
+    "name": "Wedzona pier? z kurczaka",
+    "proteins": "23",
+    "fat": "0.5",
+    "carbohydrates": "0",
+    "kcal": "107"
+  },
+  {
+    "name": "Wedzonka wolowa gotowana",
+    "proteins": "17.8",
+    "fat": "3.1",
+    "carbohydrates": "0.5",
+    "kcal": "102"
+  },
+  {
+    "name": "Wieprzowina karkowka",
+    "proteins": "16.1",
+    "fat": "22.8",
+    "carbohydrates": "0",
+    "kcal": "267"
+  },
+  {
+    "name": "Wieprzowina lopatka",
+    "proteins": "16",
+    "fat": "21.7",
+    "carbohydrates": "0",
+    "kcal": "257"
+  },
+  {
+    "name": "Wieprzowina schab surowy",
+    "proteins": "21",
+    "fat": "10",
+    "carbohydrates": "0",
+    "kcal": "174"
+  },
+  {
+    "name": "Wieprzowina zeberka",
+    "proteins": "15.2",
+    "fat": "29.3",
+    "carbohydrates": "0",
+    "kcal": "321"
+  },
+  {
+    "name": "Wino biale polwytrawne",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "3.7",
+    "kcal": "81"
+  },
+  {
+    "name": "Wino biale slodkie",
+    "proteins": "0.2",
+    "fat": "0",
+    "carbohydrates": "5.9",
+    "kcal": "95"
+  },
+  {
+    "name": "Wino biale wytrawne",
+    "proteins": "0.1",
+    "fat": "0",
+    "carbohydrates": "0.6",
+    "kcal": "66"
+  },
+  {
+    "name": "Wino czerwone",
+    "proteins": "0.1",
+    "fat": "0",
+    "carbohydrates": "0.2",
+    "kcal": "68"
+  },
+  {
+    "name": "Winogrona",
+    "proteins": "0.5",
+    "fat": "0.2",
+    "carbohydrates": "17.6",
+    "kcal": "69"
+  },
+  {
+    "name": "Wiorki kokosowe",
+    "proteins": "5.6",
+    "fat": "63.2",
+    "carbohydrates": "27",
+    "kcal": "606"
+  },
+  {
+    "name": "Wi?nie",
+    "proteins": "0.9",
+    "fat": "0.4",
+    "carbohydrates": "10.9",
+    "kcal": "47"
+  },
+  {
+    "name": "Wloszczyzna krojona w paski",
+    "proteins": "1.4",
+    "fat": "0.3",
+    "carbohydrates": "7.9",
+    "kcal": "25"
+  },
+  {
+    "name": "Woda",
+    "proteins": "0",
+    "fat": "0",
+    "carbohydrates": "0",
+    "kcal": "0"
+  },
+  {
+    "name": "Zarodki pszenne",
+    "proteins": "27.5",
+    "fat": "9.4",
+    "carbohydrates": "45.5",
+    "kcal": "323"
+  },
+  {
+    "name": "zelatyna",
+    "proteins": "84.2",
+    "fat": "0.1",
+    "carbohydrates": "0",
+    "kcal": "343"
+  },
+  {
+    "name": "Ziele angielskie",
+    "proteins": "6.1",
+    "fat": "8.7",
+    "carbohydrates": "72",
+    "kcal": "263"
+  },
+  {
+    "name": "Ziemniaki",
+    "proteins": "1.9",
+    "fat": "0.1",
+    "carbohydrates": "18.3",
+    "kcal": "77"
+  },
+  {
+    "name": "Ziemniaki mlode",
+    "proteins": "1.8",
+    "fat": "0.1",
+    "carbohydrates": "16.3",
+    "kcal": "69"
+  },
+  {
+    "name": "Ziola prowansalskie",
+    "proteins": "0",
+    "fat": "0.1",
+    "carbohydrates": "0",
+    "kcal": "1"
+  },
+  {
+    "name": "zoltko jajka kurzego",
+    "proteins": "15.5",
+    "fat": "28.2",
+    "carbohydrates": "0.3",
+    "kcal": "314"
+  },
+  {
+    "name": "zurawina niskoslodzona do mies",
+    "proteins": "0.2",
+    "fat": "0.7",
+    "carbohydrates": "38.8",
+    "kcal": "161"
+  },
+  {
+    "name": "zurawina suszona",
+    "proteins": "0.1",
+    "fat": "1.4",
+    "carbohydrates": "82.4",
+    "kcal": "320"
+  }
+]

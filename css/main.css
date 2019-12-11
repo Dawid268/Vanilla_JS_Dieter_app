@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  width: 100%;
+
+}
+.header {
+  background-color: darkseagreen;
+  display: inline-grid;
+  color: black;
+  justify-items: center;
+  align-items: center;
+  grid-area: head;
+  min-height: 20vh;
+  font-size: 2.5rem;
+  font-family: "Droid Serif";
+  width: 100%;
+}
+

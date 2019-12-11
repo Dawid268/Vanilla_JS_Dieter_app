@@ -1,0 +1,154 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+<div class="wrapper">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="index.html">Dieter</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+            aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+      <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class="header">Wylicz sobie niezbędne zapotrzebowanie, oraz makro i mikro składniki</div>
+  <div class="container">
+    <div class="calculator">
+    </div>
+    <div class="form-group">
+      <label for="age">Wiek</label>
+      <input type="number" name="age" id="age" class="form-control"
+             placeholder="Podaj wiek">
+    </div>
+    <br>
+    <div class="form-group">
+      <label for="height">Wzrost</label>
+      <input type="number" name="height" id="height" class="form-control"
+             placeholder="Podaj wzrost">
+    </div>
+    <br>
+    <div class="form-group">
+      <label for="weight">Waga</label>
+      <input type="number" name="weight" id="weight" class="form-control"
+             placeholder="Podaj wagę">
+    </div>
+    <div class="form-group">
+      <label for="gender">Płeć</label>
+      <select class="form-control" id="gender">
+        <option value="women">Kobieta</option>
+        <option value="men">Mężczyzna</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="target">Cel</label>
+      <select class="form-control" id="target">
+        <option value="reduction">Redukcja Masy Ciała</option>
+        <option value="hold">Utrzymanie Masy Ciała</option>
+        <option value="grow">Zwiększenie Masy Ciałą</option>
+      </select>
+    </div>
+    <div class="form-group">
+      <label for="strengthTrainingCounter">Podaj ilość treningow siłowych w tygodniu</label>
+      <input type="number" name="strengthTrainingCounter" id="strengthTrainingCounter" class="form-control"
+             placeholder="Podaj ilośc treningów siłowych w tygodniu">
+    </div>
+
+    <div class="form-group">
+      <label for="strengthTrainingTimer">Podaj średni czas trwania treningow siłowych w tygodniu</label>
+      <input type="number" name="strengthTrainingTimer" id="strengthTrainingTimer" class="form-control"
+             placeholder="Podaj średni czas trwania treningow siłowych w tygodniu">
+    </div>
+
+    <div class="form-group">
+      <label for="cardioTrainingCounter">Podaj ilość treningow cardio w tygodniu</label>
+      <input type="number" name="cardioTrainingCounter" id="cardioTrainingCounter" class="form-control"
+             placeholder="Podaj ilość treningow cardio w tygodniu">
+    </div>
+
+    <div class="form-group">
+      <label for="cardioTrainingTimer">Podaj średni czas trwania treningow cardio w tygodniu</label>
+      <input type="number" name="cardioTrainingTimer" id="cardioTrainingTimer" class="form-control"
+             placeholder="Podaj średni czas trwania treningow cardio w tygodniu">
+    </div>
+    <div>
+      <div class="ranges">
+        <div class="form-group">
+          <label for="proteins">Białko</label>
+          <input type="number" name="proteins" id="proteins" class="form-control">
+        </div>
+        <div class="form-group">
+          <label for="fat">Tłuszcz</label>
+          <input type="number" name="fat" id="fat" class="form-control">
+        </div>
+      </div>
+    </div>
+    <button type="submit" id="userDataButton" onclick="getUserData()" class="btn btn-primary mb-2">Przelicz</button>
+
+  </div>
+
+</div>
+<div class="footer">Footer</div>
+</div>
+<script src="js/plugins.js"></script>
+<script src="js/User.js"></script>
+<script src="js/main.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<script src="js/vendor/modernizr-3.7.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+<script>
+  window.ga = function () {
+    ga.q.push(arguments)
+  };
+  ga.q = [];
+  ga.l = +new Date;
+  ga('create', 'UA-XXXXX-Y', 'auto');
+  ga('set', 'transport', 'beacon');
+  ga('send', 'pageview')
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+</body>
+
+</html>
