@@ -22,7 +22,7 @@ body, html {
   grid-area: content;
 }
 
-.footer {
+#sticky-footer {
   grid-area: footer;
 }
 

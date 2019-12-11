@@ -20,3 +20,6 @@ body {
   width: 100%;
 }
 
+#sticky-footer {
+  flex-shrink: none;
+}
